@@ -1,0 +1,77 @@
+html {
+    background: #EFF6FF;
+    color: #2A4A5C;
+}
+
+.main {
+    display: flex;
+    margin: auto;
+}
+
+.one {
+    position: relative;
+}
+
+.logo {
+    width: 20%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.two h3 {
+    line-height: 0.5em;
+}
+
+/* Кнопка Facebook */
+
+.facebook {
+    background-color: #255A9B;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 4px;
+}
+
+/* Кнопка Linkedln*/
+
+.linkedln {
+    background-color: #0076B6;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 4px;
+}
+
+/* Див для кнопки facebook и для картинки svg */
+
+.back1 {
+    position: relative;
+    display: inline-block;
+}
+
+/* Картинка Facebook svg */
+
+.logo1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+/* див для кнопки linkedln и картинки svg */
+
+.back2 {
+    position: relative;
+    display: inline-block;
+}
+
+/* Картинка svg linkedln */
+
+.logo2 {
+    /* width: 10px; */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
